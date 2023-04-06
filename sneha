@@ -1,5 +1,0 @@
-#incude(stdio.>
-vid main()
-{
-print("hello")
-}
